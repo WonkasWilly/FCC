@@ -1,0 +1,62 @@
+body {
+    background-color: #6d9eed;
+    font-family: 'Zilla Slab', serif;
+
+}
+#quote-box {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 150px 150px;
+    position: relative;
+    margin:8% auto auto auto;
+    width: 700px ;
+    text-align: center;
+    height: 100px;
+    border: 2px solid #8d8e8c;
+}
+#twitter {
+    color: green;
+    position: absolute;
+    top: 87%;
+    left: 2%;
+
+}
+#instagram {
+    color: green;
+    position: absolute;
+    top: 87%;
+    left: 8%;
+}
+#quote-button {
+    position: absolute;
+    color: #132b82;
+    top: 87%;
+    font-family: 'Zilla Slab', serif;
+    right: 10%;
+}
+#author {
+    bottom: 80px;
+    position: absolute;
+    right: 100px;
+}
+.quotations {
+    border: 2px solid #8d8e8c;
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    color: #8d8e8c;
+    font-size: 300%;
+    position: absolute;
+    background-color: white;
+    line-height: 85px;
+}
+#open-quotes {
+    top: -30px;
+    left: -30px;
+}
+#close-quotes {
+    bottom: -30px;
+    right: -30px;
+}
