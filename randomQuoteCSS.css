@@ -17,14 +17,14 @@ body {
 #twitter {
     color: green;
     position: absolute;
-    top: 87%;
+    bottom: 5%;
     left: 2%;
 
 }
 #instagram {
     color: green;
     position: absolute;
-    top: 87%;
+    bottom: 5%;
     left: 8%;
 }
 #quote-button {
