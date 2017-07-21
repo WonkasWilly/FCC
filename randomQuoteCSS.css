@@ -15,7 +15,7 @@ body {
     border: 2px solid #8d8e8c;
 }
 #twitter {
-    color: green;
+    color: #00aced;
     position: absolute;
     bottom: 5%;
     left: 2%;
@@ -30,7 +30,7 @@ body {
 #quote-button {
     position: absolute;
     color: #132b82;
-    top: 87%;
+    bottom: 5%;
     font-family: 'Zilla Slab', serif;
     right: 10%;
 }
